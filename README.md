@@ -1,1 +1,1 @@
-# Expanding-cards
+# Expanding-cards 1/50;
